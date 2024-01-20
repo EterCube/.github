@@ -9,3 +9,4 @@ Vous pouvez jouer sur le serveur gratuitement avec vos amis, faire des connaissa
 ### Reseaux Sociaux
 - [Discord](https://dsc.gg/etercube)
 - [Twitter](https://twitter.com/EterCube)
+- [Site](https://etercube.fr)
