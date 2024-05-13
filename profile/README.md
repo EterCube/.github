@@ -2,8 +2,8 @@
 <br><img src="https://i.ibb.co/qFt1C72/Logo-2.png" width=250></h1>
 
 ## ✏️⸱ Description
-Etercube est un serveur minecraft PVP-Faction fondé en 2021.
-Le but de ce serveur est de rassembler la communauté Minecraft française, peu importe la plateforme (Java, Crack et Bedrock)
+EterCube est un serveur minecraft PVP-Faction fondé en 2021.
+Le but de ce serveur est de rassembler la communauté Minecraft française, peu importe la plateforme (Java, Crack et Bedrock).
 Vous pouvez jouer sur le serveur avec vos amis, faire de belles rencontres, tout en découvrant une expérience de jeu inédite !
 
 ## 📸 ⸱ Nos réseaux Sociaux
