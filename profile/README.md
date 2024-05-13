@@ -9,4 +9,4 @@ Vous pouvez jouer sur le serveur avec vos amis, faire de belles rencontres, tout
 ## 📸 ⸱ Nos réseaux Sociaux
 - [Discord](https://dsc.gg/etercube)
 - [~~Twitter~~ X](https://twitter.com/EterCube)
-- [Site](https://etercube.fr)
+- [Notre site](https://etercube.fr)
