@@ -1,5 +1,5 @@
-![Eterube Icon](https://i.ibb.co/x6qnvMz/9ac0db9c472f3a43c459193b46a97689.png)
-
+<h1 align="center">Bienvenue sur EterCube 👋
+<br><img src="https://i.ibb.co/qFt1C72/Logo-2.png" width=250></h1>
 
 ## ✏️⸱ Description
 Etercube est un serveur minecraft PVP-Faction fondé en 2021.
