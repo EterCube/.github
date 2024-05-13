@@ -1,12 +1,12 @@
 ![Eterube Icon](https://i.ibb.co/x6qnvMz/9ac0db9c472f3a43c459193b46a97689.png)
 
 
-### Description
-Etercube est un serveur minecraft PVP-Faction créé par [ArcaDev](https://github.com/ArcadeProgram)
-Le but du serveur est de rassembler la communauté Française de Minecraft de n'importe quel plateforme (Java, Crack, Bedrock)
-Vous pouvez jouer sur le serveur gratuitement avec vos amis, faire des connaissances, et découvrir une expérience de jeu inédite !
+## ✏️⸱ Description
+Etercube est un serveur minecraft PVP-Faction fondé en 2021.
+Le but de ce serveur est de rassembler la communauté Minecraft française, peu importe la plateforme (Java, Crack et Bedrock)
+Vous pouvez jouer sur le serveur avec vos amis, faire de belles rencontres, tout en découvrant une expérience de jeu inédite !
 
-### Reseaux Sociaux
+## 📸 ⸱ Nos réseaux Sociaux
 - [Discord](https://dsc.gg/etercube)
-- [Twitter](https://twitter.com/EterCube)
+- [~~Twitter~~ X](https://twitter.com/EterCube)
 - [Site](https://etercube.fr)
